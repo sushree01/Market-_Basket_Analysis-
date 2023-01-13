@@ -11,6 +11,7 @@ The Online Retail II data set, which includes the sales data of the UK-based onl
 
 Dataset Description:
 
+| Variables                                                                                               |
 |---------------------------------------------------------------------------------------------------------|
 | InvoiceNo: Invoice Number -> If this code starts with C, it means that the operation has been canceled. |
 | StockCode: Product Code -> Unique number for each product                                               |
